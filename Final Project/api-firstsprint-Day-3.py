@@ -493,4 +493,4 @@ app.run()
 # then i added the comments to describe the code and make it easier to understand why i did
 # certain things. Changed the name of certain list in order for them to make more sense, since they
 # were used for different things before
-# -----------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------
