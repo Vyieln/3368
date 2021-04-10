@@ -129,3 +129,4 @@ cursor.execute(query)
 rows = cursor.fetchall()
 print(rows[0]['list'])
     
+#
